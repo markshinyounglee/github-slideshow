@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-![Andres Roo](C:/Users/joing/Pictures/Screenshots/Andres Quintana Roo.jpg)
+![Andres Roo](https://www.google.co.kr)
 Use the left arrow to go back!
